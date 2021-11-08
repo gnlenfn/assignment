@@ -4,7 +4,7 @@
 ```shell
 pip install -r requirements.txt
 ```
-- `.env`파일은 github에 올리지 않았다. [다운로드](https://drive.google.com/file/d/1Udox0SWhX-mGHZ8TpbFWJpm-h06WgXMj/view?usp=sharing)
+- `.env`파일은 github에 올리지 않았다. 
 - 다운로드 후 clone한 폴더에 넣고 ipynb파일 실행
 
 ### solution
